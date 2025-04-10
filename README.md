@@ -34,3 +34,17 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="https://github.com/user-attachments/assets/c869723f-2e9f-45dc-a328-5f5489a3a7c7" width="300"/>
+  <img src="https://github.com/user-attachments/assets/46c8ba2d-fe76-4b41-bc83-b026d4f99b52" width="300"/>
+  <img src="https://github.com/user-attachments/assets/d254e8f4-88a2-42a4-8572-8b49af0caa51" width="300"/>
+  <img src="https://github.com/user-attachments/assets/b5c4fe02-4e38-44bb-ae25-3fff152cb435" width="300"/>
+  <img src="https://github.com/user-attachments/assets/b2c11c05-f1fc-4847-975e-78df3d876fbc" width="300"/>
+  <img src="https://github.com/user-attachments/assets/50e7edf5-87ca-45e9-a8c4-e1f0462c55f3" width="300"/>
+  <img src="https://github.com/user-attachments/assets/08b7d4a5-e699-4895-8d28-ea259a775b69" width="300"/>
+  <img src="https://github.com/user-attachments/assets/dd58d890-1c81-4722-9c17-1b51cb19f72f" width="300"/>
+</div>
+
