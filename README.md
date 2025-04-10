@@ -49,8 +49,11 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 </div>
 
 ![image](https://github.com/user-attachments/assets/9de0130b-ff97-46f6-8ddc-935e620265d1)
+![image](https://github.com/user-attachments/assets/62cf8137-d7f0-4ffa-aa7b-194238a79214)
 ![image](https://github.com/user-attachments/assets/98f239a6-61bb-4939-afb3-cc58472b93c0)
 ![image](https://github.com/user-attachments/assets/d2d3c541-4c25-4d35-a9b7-9be30a464d89)
+![image](https://github.com/user-attachments/assets/d9c7a375-4810-47ec-ae9a-bc9d0e6bdf04)
+![image](https://github.com/user-attachments/assets/ba4934b0-0a5a-4409-b348-6f5fbcfbfdc4)
 ![image](https://github.com/user-attachments/assets/b12f536d-faa4-497b-951c-3aa27082a4ae)
 
 
